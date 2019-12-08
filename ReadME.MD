@@ -7,4 +7,4 @@ of the obstacles its finds
 
 
 
--Most Project Folders have Text readne explaining the project
+-Most Project Folders have Text readme explaining the project setups
