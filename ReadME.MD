@@ -5,6 +5,10 @@ Using visual cues to sense the end and IR sensors on the left, right, and front 
 -Other Goals included making multi-agent robots to create mapping of the environment and communicate to one client the information
 of the obstacles its finds 
 
+Ti Tiva Micro Projects 
+
+These are example projects of me using microcontrollers with interrupts to gather information from Serial Ports and GPIO pins 
+and collaborate with a raspi-pi with a UART communication protocol for mapping and localization. 
 
 
 -Most Project Folders have Text readme explaining the project setups
