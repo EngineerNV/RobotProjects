@@ -1,0 +1,239 @@
+﻿KeyboardInterrupt
+pi@raspberrypi:~/Documents $ python3 main.py
+Returned data: (896, 3480, 123) 1inch
+Returned data: (638, 3472, 711)
+Returned data: (598, 3468, 137)
+Returned data: (622, 3478, 53)
+Returned data: (700, 3562, 139)
+^CTraceback (most recent call last):
+  File "main.py", line 25, in <module>
+    main()
+  File "main.py", line 13, in main
+    time.sleep(5)
+KeyboardInterrupt
+pi@raspberrypi:~/Documents $ python3 main.py
+Returned data: (284, 2382, 141) 2 inch 
+Returned data: (294, 2374, 57)
+Returned data: (677, 2384, 47)
+Returned data: (287, 2396, 43)
+Returned data: (456, 2397, 43)
+Traceback (most recent call last):
+  File "main.py", line 25, in <module>
+    main()
+  File "main.py", line 13, in main
+    time.sleep(5)
+KeyboardInterrupt
+^Cpi@raspberrypi:~/Documents $ python3 main.py
+Returned data: (330, 1764, 111) 3 inch 
+Returned data: (852, 1864, 237)
+Returned data: (516, 1748, 277)
+Returned data: (414, 1772, 41)
+Returned data: (148, 1769, 40)
+Returned data: (386, 1744, 45)
+^CTraceback (most recent call last):
+  File "main.py", line 25, in <module>
+    main()
+  File "main.py", line 13, in main
+    time.sleep(5)
+KeyboardInterrupt
+pi@raspberrypi:~/Documents $ python3 main.py
+Returned data: (180, 1464, 229) 4 inch 
+Returned data: (428, 1366, 511)
+Returned data: (157, 1366, 589)
+Returned data: (482, 1371, 45)
+Returned data: (842, 1464, 393)
+^CTraceback (most recent call last):
+  File "main.py", line 25, in <module>
+    main()
+  File "main.py", line 13, in main
+    time.sleep(5)
+KeyboardInterrupt
+pi@raspberrypi:~/Documents $ python3 main.py
+Returned data: (868, 1305, 292) 5 inch 
+Returned data: (524, 1124, 703)
+Returned data: (566, 1118, 89)
+Returned data: (253, 1130, 383)
+Returned data: (276, 1125, 857)
+Returned data: (307, 1092, 309)
+Returned data: (463, 1124, 697)
+Returned data: (434, 1128, 801)
+Returned data: (1102, 1118, 269)
+Returned data: (380, 1120, 41)
+Traceback (most recent call last):
+  File "main.py", line 25, in <module>
+    main()
+  File "main.py", line 13, in main
+    time.sleep(5)
+KeyboardInterrupt
+^Cpi@raspberrypi:~/Documents $ python3 main.py
+Returned data: (626, 1068, 413) 6 inch 
+Returned data: (775, 950, 417)
+Returned data: (56, 958, 39)
+Returned data: (58, 956, 37)
+Returned data: (486, 1050, 193)
+Returned data: (645, 956, 73)
+Returned data: (338, 960, 389)
+^CTraceback (most recent call last):
+  File "main.py", line 25, in <module>
+    main()
+  File "main.py", line 13, in main
+    time.sleep(5)
+KeyboardInterrupt
+pi@raspberrypi:~/Documents $ python3 main.py
+Returned data: (423, 964, 45)
+Returned data: (322, 1052, 197)
+^CTraceback (most recent call last):
+  File "main.py", line 25, in <module>
+    main()
+  File "main.py", line 13, in main
+    time.sleep(5)
+KeyboardInterrupt
+pi@raspberrypi:~/Documents $ python3 main.py
+Returned data: (496, 818, 585) inch 7
+Returned data: (542, 908, 389)
+Returned data: (50, 816, 383)
+Returned data: (393, 810, 43)
+Returned data: (175, 816, 41)
+Returned data: (470, 810, 47)
+Returned data: (109, 844, 803)
+^Z
+[1]+  Stopped                 python3 main.py
+pi@raspberrypi:~/Documents $ python3 main.py
+Returned data: (671, 708, 47) inch 8
+Returned data: (721, 708, 47)
+Returned data: (398, 716, 43)
+Returned data: (186, 710, 61)
+Returned data: (534, 816, 977)
+Returned data: (347, 712, 41)
+Traceback (most recent call last):
+  File "main.py", line 25, in <module>
+    main()
+  File "main.py", line 13, in main
+    time.sleep(5)
+KeyboardInterrupt
+^Cpi@raspberrypi:~/Documents $ python3 main.py
+Returned data: (34, 620, 40) inch 9
+Returned data: (54, 606, 533)
+Returned data: (522, 614, 41)
+Returned data: (44, 610, 39)
+Returned data: (271, 592, 40)
+Returned data: (260, 614, 40)
+Returned data: (793, 748, 352)
+Returned data: (922, 710, 296)
+Returned data: (366, 616, 136)
+Returned data: (363, 616, 633)
+Traceback (most recent call last):
+  File "main.py", line 25, in <module>
+    main()
+  File "main.py", line 13, in main
+    time.sleep(5)
+KeyboardInterrupt
+^Cpi@raspberrypi:~/Documents $ python3 main.py
+Returned data: (494, 546, 40) inch 10
+Returned data: (267, 550, 161)
+Returned data: (376, 570, 441)
+Returned data: (44, 524, 39)
+Returned data: (286, 543, 41)
+Returned data: (44, 548, 767)
+Returned data: (193, 678, 41)
+Returned data: (750, 568, 48)
+^CTraceback (most recent call last):
+  File "main.py", line 25, in <module>
+    main()
+  File "main.py", line 13, in main
+    time.sleep(5)
+KeyboardInterrupt
+pi@raspberrypi:~/Documents $ python3 main.py
+Returned data: (39, 612, 133) inch 11
+Returned data: (392, 498, 43)
+Returned data: (54, 498, 899)
+Returned data: (154, 588, 39)
+Returned data: (278, 590, 197)
+Returned data: (332, 492, 305)
+Returned data: (594, 572, 205)
+Returned data: (576, 492, 45)
+Returned data: (846, 516, 49)
+Returned data: (648, 494, 180)
+Returned data: (951, 498, 53)
+^CTraceback (most recent call last):
+  File "main.py", line 25, in <module>
+    main()
+  File "main.py", line 13, in main
+    time.sleep(5)
+KeyboardInterrupt
+pi@raspberrypi:~/Documents $ python3 main.py
+Returned data: (394, 562, 288) inch 12
+Returned data: (45, 424, 749)
+Returned data: (86, 420, 41)
+Returned data: (576, 440, 45)
+Returned data: (54, 436, 391)
+Returned data: (246, 420, 43)
+Returned data: (448, 422, 41)
+Returned data: (64, 424, 264)
+Returned data: (274, 422, 505)
+^CTraceback (most recent call last):
+  File "main.py", line 25, in <module>
+    main()
+  File "main.py", line 13, in main
+    time.sleep(5)
+KeyboardInterrupt
+pi@raspberrypi:~/Documents $ python3 main.py
+Returned data: (295, 424, 45) inch 13
+Returned data: (320, 440, 257)
+Returned data: (183, 428, 41)
+Returned data: (347, 524, 133)
+Returned data: (652, 422, 43)
+^CTraceback (most recent call last):
+  File "main.py", line 25, in <module>
+    main()
+  File "main.py", line 13, in main
+    time.sleep(5)
+
+Returned data: (44, 326, 263) 14 inches
+Returned data: (557, 374, 43)
+Returned data: (425, 360, 41)
+Returned data: (448, 380, 243)
+Returned data: (78, 352, 39)
+Returned data: (95, 348, 411)
+Returned data: (623, 354, 45)
+
+Returned data: (42, 300, 39) - 15 inch 
+Returned data: (652, 322, 45)
+Returned data: (64, 308, 40)
+Returned data: (248, 420, 913)
+Returned data: (627, 252, 43)
+Returned data: (692, 326, 743)
+Returned data: (444, 254, 72)
+Returned data: (650, 300, 45)
+Returned data: (43, 422, 131)
+Returned data: (578, 308, 41)
+Returned data: (93, 324, 37)
+
+Returned data: (420, 182, 41) 
+Returned data: (602, 302, 549)
+Returned data: (438, 468, 541)
+Returned data: (450, 332, 44)
+Returned data: (258, 438, 131)
+Returned data: (144, 444, 373)
+Returned data: (142, 420, 633)
+Returned data: (677, 380, 45)
+
+Returned data: (54, 296, 39) - 18 inches 
+Returned data: (271, 278, 32)
+Returned data: (821, 436, 140)
+Returned data: (796, 260, 47)
+Returned data: (369, 270, 40)
+Returned data: (370, 280, 43)
+Returned data: (64, 308, 40)
+Returned data: (394, 278, 41)
+Returned data: (94, 350, 40)
+
+Returned data: (398, 318, 333) -19 inch
+Returned data: (39, 302, 61)
+Returned data: (39, 308, 985)
+Returned data: (684, 276, 315)
+Returned data: (42, 350, 313)
+Returned data: (40, 226, 37)
+Returned data: (420, 354, 145)
+Returned data: (346, 304, 41)
+Returned data: (233, 252, 41)
