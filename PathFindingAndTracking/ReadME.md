@@ -4,6 +4,8 @@ Final Project is the Capture the Falg Project I performed with a team
 ReadMe inside of it explains the functions used in python 
 
 Each project was a way to work up to the capture the flag game 
+
+
 Project 1 Tracking showcases using CV feature detection to track a color object such as a stress ball
 -This was used in the algorithm for chasing a color flag in CTF game 
 Project 2 coverage  shows my algorithm of using a butler algorithm to sweep a predefined space to explore obstacles and map it 
